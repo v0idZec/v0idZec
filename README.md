@@ -1,7 +1,7 @@
 <h1>hello world</h1>
 
 ```bash
-v0idZecl@v0idZec:~$ whoami
+v0idZec@v0idZec:~$ whoami
 
 age: 18
 from: germany
