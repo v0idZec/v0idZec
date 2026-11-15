@@ -1,5 +1,3 @@
-<h1>hello world</h1>
-
 ```bash
 user@v0idZec:~$ whoami
 
